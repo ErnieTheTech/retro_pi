@@ -8,6 +8,6 @@ I am taking no credit for any of the software and hardware used, there are a mil
 ![alt text](arcade/ac4.jpg "proto pics")
 ![alt text](arcade/ac5.jpg "print")
 ![alt text](arcade/ac6.jpg "buttons")
-![alt text](/rcade/ac7.jpg "almost")
+![alt text](arcade/ac7.jpg "almost")
 ![alt text](arcade/ac8.jpg "done")
 ![alt text](arcade/ac9.jpg "and done")
